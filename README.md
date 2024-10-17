@@ -10,8 +10,8 @@ Gestion des messages trop longs pour Telegram en les divisant en plusieurs parti
 
 Prérequis
 
-Python 3.7 ou version supérieure
-Un compte Telegram et un bot configuré via BotFather
+- Python 3.7 ou version supérieure
+- Un compte Telegram et un bot configuré via BotFather
 
 Installation
 
