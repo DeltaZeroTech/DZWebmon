@@ -19,8 +19,8 @@
 1. **Clonez le dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/web-monitor.git
-   cd web-monitor
+   git clone https://github.com/DeltaZeroTech/DZWebmon.git
+   cd DZWebmon
    ```
 
 2. **Installez les dépendances** :
@@ -34,7 +34,7 @@
    Exemple de contenu du fichier `.env` :
 
    ```bash
-   TELEGRAM_BOT_TOKEN=123456789:ABCDefghijklmnopqrstuvwxyz123456
+   TELEGRAM_BOT_TOKEN=123456789:ABCDefghijklmnopqrstuvwxyz012345
    TELEGRAM_CHAT_ID=987654321
    ```
 
